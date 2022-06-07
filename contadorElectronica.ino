@@ -132,7 +132,6 @@ void numeroImprimir(int numero) {
 }
 
 void setup() {
-  // put your setup code here, to run once:
   pinMode(SALIDA1, OUTPUT);
   pinMode(SALIDA2, OUTPUT);
   pinMode(SALIDA3, OUTPUT);
